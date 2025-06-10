@@ -1,6 +1,6 @@
 # Proyek Machine Learning: Analisis Sentimen dan Prediksi Skor Ulasan Aplikasi
 
-![Python](https://img.shields.io/badge/Python-3.11-blue.svg)
+![Python](https://img.shields.io/badge/Python-3.9-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.35-red.svg)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-1.4-orange.svg)
 
