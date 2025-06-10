@@ -1,0 +1,23 @@
+# Framework Aplikasi Web
+streamlit
+
+# Manipulasi & Komputasi Data
+pandas
+numpy
+
+# Visualisasi Data
+matplotlib
+seaborn
+
+# Natural Language Processing (NLP)
+Sastrawi
+gensim
+wordcloud
+nltk
+
+# Machine Learning
+scikit-learn
+xgboost
+
+# Pengambilan Data (Digunakan di notebook)
+google-play-scraper
