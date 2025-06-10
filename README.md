@@ -81,6 +81,7 @@ Setelah melakukan perbandingan, model terbaik untuk setiap tugas adalah:
 
 ### **Tim Proyek**
 Proyek ini dikerjakan secara berkelompok oleh:
+- Wibi Ataya Sani (152022063)
 - Muhammad Figo Razzan Fadilah (152022064)
 - Maulana Seno Aji Yudhantara (152022065)
 - Naizirun De Jesus Da Silva (152022077)
